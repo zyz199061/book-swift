@@ -228,7 +228,7 @@
 				TargetAttributes = {
 					1A1B2ED71E83C0A60089CA3D = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = 2A2HBA58GY;
+						DevelopmentTeam = 2VKK39L69X;
 						LastSwiftMigration = 0820;
 						ProvisioningStyle = Automatic;
 					};
@@ -501,7 +501,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				DEVELOPMENT_TEAM = 2A2HBA58GY;
+				DEVELOPMENT_TEAM = 2VKK39L69X;
 				INFOPLIST_FILE = "book-swift/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "zhangyuanzhe.book-swift";
@@ -518,7 +518,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				DEVELOPMENT_TEAM = 2A2HBA58GY;
+				DEVELOPMENT_TEAM = 2VKK39L69X;
 				INFOPLIST_FILE = "book-swift/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "zhangyuanzhe.book-swift";
